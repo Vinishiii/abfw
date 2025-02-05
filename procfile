@@ -1,0 +1,8 @@
+# 1. requirements.txt
+streamlit
+pandas
+plotly
+unidecode
+
+# 2. Procfile
+web: streamlit run abfw_dashboard.py
